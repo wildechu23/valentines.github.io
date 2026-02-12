@@ -4,6 +4,7 @@ const MOUSE = SPACING * 5;
 let GRAVITY = 0.05;
 let SPEED = 1;
 
+// Thank you to https://github.com/dissimulate/jelly for the jelly physics
 
 let she_said_yes = false;
 
