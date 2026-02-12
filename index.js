@@ -554,7 +554,6 @@ canvas.addEventListener('click', function(evt) {
         var audio2 = new Audio('rizz.mp3');
         audio2.play();
         const s = 6 + Math.round(Math.random() * 12);
-        console.log(s);
         squares.push(new Square(
             s,
             s,
